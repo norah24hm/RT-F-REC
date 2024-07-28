@@ -38,11 +38,11 @@ Run the Flask app and open a web browser and navigate to the project URL.
 
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
-##### First we need to make sure that we have a life stream using flask and simple video frame generating function:
+### First we need to make sure that we have a life stream using flask and simple video frame generating function:
 ![step1](https://github.com/user-attachments/assets/c9300f0d-224d-4c03-820e-0d951141ba26)
 
 
-##### Testing the project url:
+### Testing the project url:
 ![step2](https://github.com/user-attachments/assets/6e292e08-9aaa-4db3-a5fe-fe83a1eab813)
 
 
